@@ -80,6 +80,10 @@ https://light-city.club/sc/
 #### 2.1 [10日狂练](./practical_exercises/10_day_practice)
 
 - [x] [day1](practical_exercises/10_day_practice/day1)
+  - [ ] [1_1_print](practical_exercises/10_day_practice/day1/1_1_print.cpp)
+  - [ ] [1_2_leap_year](practical_exercises/10_day_practice/day1/1_2_leap_year.cpp)
+  - [ ] [1_3_comment](practical_exercises/10_day_practice/day1/1_3_comment.cpp)
+  - [ ] [1_4_union_struct](practical_exercises/10_day_practice/day1/1_3_union.cpp)
 
 基本c++语法
 
